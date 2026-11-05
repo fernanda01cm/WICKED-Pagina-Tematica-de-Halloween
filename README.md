@@ -62,3 +62,7 @@ Autora
 Fernanda Cristina
 Estudante de Sistemas de Informação, com foco no aprendizado de desenvolvimento web, banco de dados e programação.
 GitHub: @fernanda01cm
+
+## Demonstração
+<img width="1921" height="962" alt="image" src="https://github.com/user-attachments/assets/b5c2bbf8-d3a9-4c63-860f-021fae276c87" />
+
